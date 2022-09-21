@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "eslint": "^8.23.1",
+    "express": "^4.18.1",
+    "jest": "^29.0.3",
+    "supertest": "^6.2.4"
+  },
+  "name": "basic-express-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandomoki/basic-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandomoki/basic-express-server/issues"
+  },
+  "homepage": "https://github.com/brandomoki/basic-express-server#readme"
+}
