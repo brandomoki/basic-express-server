@@ -4,7 +4,7 @@
 
 - A basic server built using NodeJS and Express. Used jest and supertest to test our code.
 
-## Author: Keelen Fisher
+## Author: Brandon Pitts
 
 - Deployed Site:
 
